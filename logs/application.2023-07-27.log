@@ -1,0 +1,90 @@
+14:14:58.329 [main] INFO  com.developer.queue.Application - Starting Application using Java 17.0.4.1 with PID 29152 (E:\Personal\Spring Practice\Ahtisham\Projects\PaySys Labs\queue\target\classes started by AhtishamLatif in E:\Personal\Spring Practice\Ahtisham\Projects\PaySys Labs\queue)
+14:14:58.332 [main] INFO  com.developer.queue.Application - No active profile set, falling back to 1 default profile: "default"
+14:14:59.128 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+14:14:59.140 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+14:14:59.143 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+14:14:59.143 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.11]
+14:14:59.224 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+14:14:59.225 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 857 ms
+14:14:59.682 [main] WARN  o.s.c.LocalVariableTableParameterNameDiscoverer - Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springframework.amqp.rabbit.core.RabbitAdmin
+14:14:59.719 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8001"]
+14:14:59.743 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8001 (http) with context path ''
+14:14:59.746 [main] INFO  o.s.a.r.c.CachingConnectionFactory - Attempting to connect to: localhost:5672
+14:14:59.813 [main] INFO  o.s.a.r.c.CachingConnectionFactory - Created new connection: connectionFactory#7d247660:0/SimpleConnection@7f0a133d [delegate=amqp://guest@127.0.0.1:5672/, localPort=60441]
+14:14:59.866 [main] INFO  com.developer.queue.Application - Started Application in 1.868 seconds (process running for 2.764)
+14:35:01.922 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-2] INFO  o.s.a.r.l.SimpleMessageListenerContainer - Waiting for workers to finish.
+14:35:02.740 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-2] INFO  o.s.a.r.l.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+15:57:34.060 [main] INFO  com.developer.queue.Application - Starting Application using Java 17.0.4.1 with PID 12916 (E:\Personal\Spring Practice\Ahtisham\Projects\PaySys Labs\queue\target\classes started by AhtishamLatif in E:\Personal\Spring Practice\Ahtisham\Projects\PaySys Labs\queue)
+15:57:34.067 [main] INFO  com.developer.queue.Application - No active profile set, falling back to 1 default profile: "default"
+15:57:35.952 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+15:57:35.976 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+15:57:35.977 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:57:35.978 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.11]
+15:57:36.144 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:57:36.149 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1947 ms
+15:57:36.916 [main] WARN  o.s.c.LocalVariableTableParameterNameDiscoverer - Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springframework.amqp.rabbit.core.RabbitAdmin
+15:57:37.006 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8001"]
+15:57:37.068 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8001 (http) with context path ''
+15:57:37.077 [main] INFO  o.s.a.r.c.CachingConnectionFactory - Attempting to connect to: localhost:5672
+15:57:37.182 [main] INFO  o.s.a.r.c.CachingConnectionFactory - Created new connection: connectionFactory#3003827c:0/SimpleConnection@9df564f [delegate=amqp://guest@127.0.0.1:5672/, localPort=60211]
+15:57:37.411 [main] INFO  com.developer.queue.Application - Started Application in 4.359 seconds (process running for 6.577)
+16:00:00.365 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-2] INFO  o.s.a.r.l.SimpleMessageListenerContainer - Waiting for workers to finish.
+16:00:00.431 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-2] INFO  o.s.a.r.l.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+16:00:12.605 [main] INFO  com.developer.queue.Application - Starting Application using Java 17.0.4.1 with PID 25032 (E:\Personal\Spring Practice\Ahtisham\Projects\PaySys Labs\queue\target\classes started by AhtishamLatif in E:\Personal\Spring Practice\Ahtisham\Projects\PaySys Labs\queue)
+16:00:12.620 [main] INFO  com.developer.queue.Application - No active profile set, falling back to 1 default profile: "default"
+16:00:14.851 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+16:00:14.883 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+16:00:14.886 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+16:00:14.887 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.11]
+16:00:15.064 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:00:15.065 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2273 ms
+16:00:16.355 [main] WARN  o.s.c.LocalVariableTableParameterNameDiscoverer - Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springframework.amqp.rabbit.core.RabbitAdmin
+16:00:16.491 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8001"]
+16:00:16.562 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8001 (http) with context path ''
+16:00:16.570 [main] INFO  o.s.a.r.c.CachingConnectionFactory - Attempting to connect to: localhost:5672
+16:00:16.678 [main] INFO  o.s.a.r.c.CachingConnectionFactory - Created new connection: connectionFactory#724b939e:0/SimpleConnection@4f363abd [delegate=amqp://guest@127.0.0.1:5672/, localPort=60344]
+16:00:16.973 [main] INFO  com.developer.queue.Application - Started Application in 5.507 seconds (process running for 7.748)
+16:00:37.145 [http-nio-8001-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:00:37.145 [http-nio-8001-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+16:00:37.145 [http-nio-8001-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+16:00:37.428 [http-nio-8001-exec-2] INFO  c.d.q.servicesImp.QueueServiceImp - Message Sending TO Queue
+16:00:37.540 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.d.queue.listener.QueueListener - Message Received From Queue : {}
+16:01:06.181 [http-nio-8001-exec-3] INFO  c.d.q.servicesImp.QueueServiceImp - Message Sending TO Queue
+16:01:06.209 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.d.queue.listener.QueueListener - Message Received From Queue : {"message":"Hello RabbitMQ","date":"2023-07-27T12:34:56","messageId":42}
+16:02:28.368 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-2] INFO  o.s.a.r.l.SimpleMessageListenerContainer - Waiting for workers to finish.
+16:02:28.827 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-2] INFO  o.s.a.r.l.SimpleMessageListenerContainer - Successfully waited for workers to finish.
+16:02:38.739 [main] INFO  com.developer.queue.Application - Starting Application using Java 17.0.4.1 with PID 13076 (E:\Personal\Spring Practice\Ahtisham\Projects\PaySys Labs\queue\target\classes started by AhtishamLatif in E:\Personal\Spring Practice\Ahtisham\Projects\PaySys Labs\queue)
+16:02:38.752 [main] INFO  com.developer.queue.Application - No active profile set, falling back to 1 default profile: "default"
+16:02:41.027 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+16:02:41.053 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+16:02:41.057 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+16:02:41.058 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.11]
+16:02:41.203 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:02:41.203 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2305 ms
+16:02:41.978 [main] WARN  o.s.c.LocalVariableTableParameterNameDiscoverer - Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springframework.amqp.rabbit.core.RabbitAdmin
+16:02:42.074 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8001"]
+16:02:42.131 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8001 (http) with context path ''
+16:02:42.147 [main] INFO  o.s.a.r.c.CachingConnectionFactory - Attempting to connect to: localhost:5672
+16:02:42.283 [main] INFO  o.s.a.r.c.CachingConnectionFactory - Created new connection: connectionFactory#513b52af:0/SimpleConnection@2c3158e0 [delegate=amqp://guest@127.0.0.1:5672/, localPort=60451]
+16:02:42.379 [main] INFO  com.developer.queue.Application - Started Application in 4.507 seconds (process running for 8.196)
+16:30:48.851 [http-nio-8001-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:30:48.851 [http-nio-8001-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+16:30:48.851 [http-nio-8001-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+16:30:49.048 [http-nio-8001-exec-2] INFO  c.d.q.servicesImp.QueueServiceImp - Message Sending TO Queue
+16:30:49.048 [http-nio-8001-exec-1] INFO  c.d.q.servicesImp.QueueServiceImp - Message Sending TO Queue
+16:30:49.048 [http-nio-8001-exec-7] INFO  c.d.q.servicesImp.QueueServiceImp - Message Sending TO Queue
+16:30:49.048 [http-nio-8001-exec-4] INFO  c.d.q.servicesImp.QueueServiceImp - Message Sending TO Queue
+16:30:49.268 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.d.queue.listener.QueueListener - Message Received From Queue : {"message":"Hello RabbitMQ 2","date":"2023-07-27T12:34:56","messageId":43}
+16:30:49.276 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.d.queue.listener.QueueListener - Message Received From Queue : {"message":"Hello RabbitMQ 2","date":"2023-07-27T12:34:56","messageId":43}
+16:30:49.276 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.d.queue.listener.QueueListener - Message Received From Queue : {"message":"Hello RabbitMQ","date":"2023-07-27T12:34:56","messageId":42}
+16:30:49.276 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.d.queue.listener.QueueListener - Message Received From Queue : {"message":"Hello RabbitMQ","date":"2023-07-27T12:34:56","messageId":42}
+16:31:58.599 [http-nio-8001-exec-4] INFO  c.d.q.servicesImp.QueueServiceImp - Message Sending TO Queue
+16:31:58.599 [http-nio-8001-exec-9] INFO  c.d.q.servicesImp.QueueServiceImp - Message Sending TO Queue
+16:31:58.599 [http-nio-8001-exec-10] INFO  c.d.q.servicesImp.QueueServiceImp - Message Sending TO Queue
+16:31:58.607 [http-nio-8001-exec-7] INFO  c.d.q.servicesImp.QueueServiceImp - Message Sending TO Queue
+16:31:58.615 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.d.queue.listener.QueueListener - Message Received From Queue : {"message":"Hello RabbitMQ 2","date":"2023-07-27T12:34:56","messageId":43}
+16:31:58.615 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.d.queue.listener.QueueListener - Message Received From Queue : {"message":"Hello RabbitMQ 2","date":"2023-07-27T12:34:56","messageId":43}
+16:31:58.615 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.d.queue.listener.QueueListener - Message Received From Queue : {"message":"Hello RabbitMQ","date":"2023-07-27T12:34:56","messageId":42}
+16:31:58.623 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1] INFO  c.d.queue.listener.QueueListener - Message Received From Queue : {"message":"Hello RabbitMQ","date":"2023-07-27T12:34:56","messageId":42}
+16:33:16.286 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-2] INFO  o.s.a.r.l.SimpleMessageListenerContainer - Waiting for workers to finish.
+16:33:17.283 [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-2] INFO  o.s.a.r.l.SimpleMessageListenerContainer - Successfully waited for workers to finish.
